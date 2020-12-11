@@ -8,10 +8,10 @@
 nbehfar@gmail.com
 
 
-#### Summary:
+## Summary
 After 10+ years of business experience working in sales and marketing, I became interested in how software interfaces can simplify or complicate one’s work. I enrolled at Flatiron-School-Bootcamp, designed apps and graduated recently. I seek new challenges, so I can leverage my business skills and address customer’s pain point.
 
-#### UX Experiences:
+## UX Experiences
 **Hart to Harts – Storytelling iOS Mobile App**     
 *Denver (Remote) | Flatiron School | 4 weeks, 2020*       
 -	Conducted a UX Design process with a team of 4 to create an app that encourages users to listen and record vulnerable stories and connect with the storyteller.  
@@ -22,7 +22,7 @@ After 10+ years of business experience working in sales and marketing, I became 
 -	Conducted a UX Design process with a team of 3 to create a mobile-first website that helps constituents find information about their local government and become more engaged.  
   
  
-#### Professional Business Experience:
+## Professional Experience
 **UX Designer/Researcher**  
 *ArdenVent | October 2020 - till now*  
 -	Designing cost effective, smart Ventilators
@@ -62,18 +62,17 @@ Wholesale and Foreign Trade of Hardware Products
 
 
 
-#### Design Skills:  
-
+## Design Skills  
 **Design:** Wireframing, Prototyping, Journey Mapping, Storyboarding
 **Research:** Competitive Analysis, SME Interview, User Interview, Survey, Usability Testing
 **Tools:** Sketch, Figma, InVision, Miro, Trello, G Suite, Slack, Zoom
  
  
-#### Other Skills:   
+## Other Skills   
 **Technical:** HTML 5, CSS 3, Joomla (CMS), MySQL, SAP ERP, Relational Database-Design (RDD)  
 **Language:** German (Native), Persian (Native), English (Fluent), French (Basic)
 
-#### Education:  
+## Education  
 **Flatiron School**  
 *Denver | March 2020 - August 2020*   
 UX/UI Design Certificate  
