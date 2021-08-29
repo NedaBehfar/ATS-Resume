@@ -1,9 +1,9 @@
-## **​​Neda Behfar**
+# **Neda Behfar**
 ### **UX Designer**
 ### **Denver, Colorado**
  
  
-
+<br>
  
 [Email](nbehfar@gmail.com)\
 [LinkedIn](https://www.LinkedIn.com/in/nedabehfar)\
@@ -14,7 +14,7 @@
  
 
 
-### ​​Education:
+### Education:
 
 **Flatiron School (Bootcamp)**\
 *Denver | March 2020 - August 2020*\
@@ -25,7 +25,7 @@ UX/UI Design Certificate
  
  
  
-### ​​UX Experience:
+### UX Experience:
  
 **UX Analyst Intern | June 2021 – present**\
 *Plecosystems | New York (Remote)*\
@@ -45,7 +45,7 @@ Designing cost effective, smart Ventilators for Covid-19 patients:\
 `*` Created prototypes for the smart ventilator and the oxygen concentrator.
  
  
-**UX Research/ Design Intern | January 2021 – April 2021**\
+**UX Design/ UX Research Intern | January 2021 – April 2021**\
 *Hivemind Mentoring | Boulder (Remote)*\
 Mentoring career changers who choose entering into UX:\
 `*` Conducted user research and synthesis research findings.\
@@ -54,7 +54,7 @@ Mentoring career changers who choose entering into UX:\
 `*` Led the Experience Map and Competitive Analysis project.
  
  
-**UX Designer/ Researcher | July 2020 – August 2020**\
+**UX Designer/ UX Researcher | July 2020 – August 2020**\
 *Hart-to-Harts | Seattle (Remote)*\
 Connecting people by sharing their story (iOS Mobile App):\
 `*` Conducted qualitative and quantitative research.\
@@ -63,7 +63,7 @@ Connecting people by sharing their story (iOS Mobile App):\
 `*` Prepared slide presentations for our stakeholder to ensure stakeholder’s alignment.
  
  
-### ​​Other Professional Experience:
+### Other Professional Experience:
  
 **IT Management Apprentice | August 2017 – July 2019**\
 *Institute Industrial IT | Lemgo (Germany)*\
@@ -82,9 +82,9 @@ Supported children with immigration background and their families to better navi
  
  
  
-### ​​Awards and Achievements:
+### Awards and Achievements:
 
-**Winner of the “UX Wizards” Design Hackathon | April 2021**\
+**Winner of the “UX Wizards” Design Hackathon | Sponsored by Adobe | April 2021**\
 *My team "Peace of the Pie" won 3 out of 5 categories:*\
 `1` Best Presentation\
 `2` Best Research\
@@ -92,24 +92,24 @@ Supported children with immigration background and their families to better navi
  
  
  
-### ​​Design Skills:
+### Design Skills:
 
 Qualitative Research, Quantitative Research, Competitive Analysis, SME Interview, User Interview, User Survey, Research Synthesis, User Persona, Journey Mapping, Experience Mapping, Storyboarding, Wireframing, Fragment Designing, Prototyping, Journey Mapping, Usability Testing
  
  
-### ​​Tools:
+### Tools:
 
 Figma, Sketch, InVision, Miro, Mural, Optimal Sort, G Suite, Microsoft 365, Slack, Zoom, HTML 5, CSS 3, Joomla (CMS), Liferay (CMS), Trello, Jira
  
  
  
-### ​​Other Skills: 
+### Other Skills: 
 
 MySQL, SAP ERP, Relational Database-Design
  
  
  
-### ​​Language:
+### Language:
 
 German (Native), Persian (Native), English (Fluent), French (Basic)
  
