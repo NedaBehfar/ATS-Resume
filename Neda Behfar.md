@@ -1,83 +1,119 @@
-# **Neda Behfar**
-##### UX Designer | UX Researcher | Product Designer
-##### Denver, Colorado
+## **​​Neda Behfar**
+### **UX Designer**
+### **Denver, Colorado**
+ 
+ 
 
+ 
+[Email](nbehfar@gmail.com)\
+[LinkedIn](https://www.LinkedIn.com/in/nedabehfar)\
 [Portfolio](https://www.nedabehfar.com)\
-[Linkedin](https://www.linkedin.com/in/nedabehfar)\
-[Medium](https://medium.com/@nedabehfar)\
-nbehfar@gmail.com
-
-
-## Summary
-After 10+ years of business experience working in sales and marketing, I became interested in how software interfaces can simplify or complicate one’s work. I enrolled at Flatiron-School-Bootcamp, designed apps and graduated recently. I seek new challenges, so I can leverage my business skills and address customer’s pain point.
-
-## UX Experiences
-**Hart to Harts – Storytelling iOS Mobile App**     
-*Denver (Remote) | Flatiron School | 4 weeks, 2020*       
--	Conducted a UX Design process with a team of 4 to create an app that encourages users to listen and record vulnerable stories and connect with the storyteller.  
-
- 
-**Locally Engaged - Mobile-First Website**  
-*Denver (Remote) | Flatiron School | 5 weeks, 2020* 
--	Conducted a UX Design process with a team of 3 to create a mobile-first website that helps constituents find information about their local government and become more engaged.  
-  
- 
-## Professional Experience
-**UX Designer/Researcher**  
-*ArdenVent | October 2020 - till now*  
--	Designing cost effective, smart Ventilators
-  
-**IT Management Apprentice (IT-Work-Study Program)**  
-*Institute Industrial IT- Technical University of Applied Sciences OWL | Aug. 2017- Jul. 2019*
--	Worked cross-functional between the Tech, Business and Management department
--	Redesigned and coded the “KommA 2020” Website, using HTML 5, CSS 3 for Joomla 3.5
--	Kept the institute’s website updated via Typo3
--	Presented “Open Innovation” and “Design Thinking” topic to one of the Institute’s research group
--	Assisted the project managers on the annual colloquium “Communication in Automation-(KommA 2018)”
--	Visited Dietrich-Bonhoeffer-Berufs-College parallel to the practical work at inIT
- 
-   
-**Project Team Member/Director**   
-*German Red Cross | Jan.2013-Dec.2016*  
-Supporting children and their families to better navigate their educational path
--	Supervised and managed successfully the limited national project budget.
--	Finding solution for the lack of family engagements via research
--	Prepared people to enter/continue their education
--	Assisted with immigrant assimilation
- 
-   
-**Executive Assistant - Vendor Manager**  
-*Allia GmbH | Nov. 2011-Jan. 2013*  
-International trade
--	Researched and Identified best suppliers for desired products
--	Connected buyers to suppliers
- 
-   
-**Marketing Manager**  
-*Sakht Layeh Saaz (SLS Co.), | Feb. 2001-Jul. 2010*  
-Wholesale and Foreign Trade of Hardware Products
--	Solved industrial wearing/corrosion’s problems
--	Introduced new products to the market
--	Worked as a value-added reseller
-
-
-
-## Design Skills  
-**Design:** Wireframing, Prototyping, Journey Mapping, Storyboarding
-**Research:** Competitive Analysis, SME Interview, User Interview, Survey, Usability Testing
-**Tools:** Sketch, Figma, InVision, Miro, Trello, G Suite, Slack, Zoom
+[Medium](https://medium.com/@nedabehfar)
  
  
-## Other Skills   
-**Technical:** HTML 5, CSS 3, Joomla (CMS), MySQL, SAP ERP, Relational Database-Design (RDD)  
-**Language:** German (Native), Persian (Native), English (Fluent), French (Basic)
+ 
 
-## Education  
-**Flatiron School**  
-*Denver | March 2020 - August 2020*   
-UX/UI Design Certificate  
 
-**Dietrich-Bonhoeffer-Berufskolleg**  
-*Detmold, Germany | August 2017 - July 2019*   
-As a part of the IT-Work-Study Program
+### ​​Education:
+
+**Flatiron School (Bootcamp)**\
+*Denver | March 2020 - August 2020*\
+UX/UI Design Certificate
+ 
+**Shahid Beheshti University**\
+*BA / German Language and Literature*
+ 
+ 
+ 
+### ​​UX Experience:
+ 
+**UX Analyst Intern | June 2021 – present**\
+*Plecosystems | New York (Remote)*\
+Converting medical research reports from a PowerPoint version into a Website:\
+`*` Collaborating with UX Designers & Researchers, Developers and the Product Manager to transform complex medical information into an easy-to-use experience for the user.\
+`*`  Reformatting content in an order that makes material more engaging for end-users based on research findings.\
+`*` Identifying and designing responsive fragments.\
+`*` Designing website layout based on the organization's Design System.
+ 
+ 
+**UX Design/ Research Volunteer | October 2020 – present**\
+*ArdenVent | New Zealand/Germany/USA (Remote)*\
+Designing cost effective, smart Ventilators for Covid-19 patients:\
+`*` Conducted subject matter expert Interview.\
+`*` Developed multiple personas, journey & experience maps to see the big picture of our personas journey.\
+`*` Created User Stories to keep the international and cross functional teams aligned on how to prioritize device features.\
+`*` Created prototypes for the smart ventilator and the oxygen concentrator.
+ 
+ 
+**UX Research/ Design Intern | January 2021 – April 2021**\
+*Hivemind Mentoring | Boulder (Remote)*\
+Mentoring career changers who choose entering into UX:\
+`*` Conducted user research and synthesis research findings.\
+`*` Created personas and journey maps in an Agile environment.\
+`*` Conducted stakeholder Interview to find out the business goals and values.\
+`*` Led the Experience Map and Competitive Analysis project.
+ 
+ 
+**UX Designer/ Researcher | July 2020 – August 2020**\
+*Hart-to-Harts | Seattle (Remote)*\
+Connecting people by sharing their story (iOS Mobile App):\
+`*` Conducted qualitative and quantitative research.\
+`*` Conducted competitive analysis, user surveys, subject-matter expert and user interviews to gain insights.\
+`*` Designed lo/mid-fi wireframes, conducted usability testing and made rapid iterations.\
+`*` Prepared slide presentations for our stakeholder to ensure stakeholder’s alignment.
+ 
+ 
+### ​​Other Professional Experience:
+ 
+**IT Management Apprentice | August 2017 – July 2019**\
+*Institute Industrial IT | Lemgo (Germany)*\
+IT-Work-Study Program:\
+`*` Worked cross functionally between the tech, business and management department.\
+`*` Redesigned and coded the “KommA 2020” Website, using HTML 5, CSS 3 for Joomla 3.5 CMS.\
+`*` Presented the “Design Thinking” and “Open Innovation” topic to one of the institute’s research groups.
+ 
+ 
+**Project Team Member/Director | January 2013 – December 2016**\
+*German Red Cross | Lemgo (Germany)*\
+Supported children with immigration background and their families to better navigate their educational path:\
+`*` Supervised and managed successfully the limited national project budget of 10K.\
+`*` Improved 30% family educational engagement.\
+`*` Facilitated the transition for immigrants to enter the schooling system.
+ 
+ 
+ 
+### ​​Awards and Achievements:
+
+**Winner of the “UX Wizards” Design Hackathon | April 2021**\
+*My team "Peace of the Pie" won 3 out of 5 categories:*\
+`1` Best Presentation\
+`2` Best Research\
+`3` Grand Prize
+ 
+ 
+ 
+### ​​Design Skills:
+
+Qualitative Research, Quantitative Research, Competitive Analysis, SME Interview, User Interview, User Survey, Research Synthesis, User Persona, Journey Mapping, Experience Mapping, Storyboarding, Wireframing, Fragment Designing, Prototyping, Journey Mapping, Usability Testing
+ 
+ 
+### ​​Tools:
+
+Figma, Sketch, InVision, Miro, Mural, Optimal Sort, G Suite, Microsoft 365, Slack, Zoom, HTML 5, CSS 3, Joomla (CMS), Liferay (CMS), Trello, Jira
+ 
+ 
+ 
+### ​​Other Skills: 
+
+MySQL, SAP ERP, Relational Database-Design
+ 
+ 
+ 
+### ​​Language:
+
+German (Native), Persian (Native), English (Fluent), French (Basic)
+ 
+ 
+
+
 
