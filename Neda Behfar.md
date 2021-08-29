@@ -30,8 +30,8 @@ UX/UI Design Certificate
 **UX Analyst Intern | June 2021 – present**\
 *Plecosystems | New York (Remote)*\
 Converting medical research reports from a PowerPoint version into a Website:\
+`*`  Redesigned existing content layout based on research findings to improve better user experience, so that the content becomes more engaging for the user.\
 `*` Collaborating with UX Designers & Researchers, Developers and the Product Manager to transform complex medical information into an easy-to-use experience for the user.\
-`*`  Reformatting content in an order that makes material more engaging for end-users based on research findings.\
 `*` Identifying and designing responsive fragments.\
 `*` Designing website layout based on the organization's Design System.
  
